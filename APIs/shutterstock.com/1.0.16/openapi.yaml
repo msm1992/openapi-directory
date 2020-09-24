@@ -4842,7 +4842,7 @@ paths:
   '/v2/images/{id}/similar':
     get:
       description: This endpoint returns images that are visually similar to an image that you specify.
-      operationId: getSimilarImages
+      operationId: getSimilarImagesByID
       parameters:
         - description: Image ID
           example: '465011609'
@@ -7189,7 +7189,7 @@ paths:
   '/v2/videos/{id}/similar':
     get:
       description: This endpoint searches for videos that are similar to a video that you specify.
-      operationId: getSimilarVideos
+      operationId: getSimilarVideosById
       parameters:
         - description: The ID of a video for which similar videos should be returned
           example: '2140697'
