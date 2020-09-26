@@ -9,7 +9,7 @@ info:
     email: contact@1forge.com
     name: 1Forge
     url: 'http://1forge.com'
-  description: Stock and Forex Data and Realtime Quotes running with jenkins - automated build
+  description: Stock and Forex Data and Realtime Quotes
   title: 1Forge Finance APIs
   version: 0.0.1
   x-apisguru-categories:
