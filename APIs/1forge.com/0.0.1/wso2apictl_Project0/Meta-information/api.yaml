@@ -2,8 +2,7 @@ id:
   providerName: admin
   apiName: 1ForgeFinanceAPIs
   version: 0.0.1
-description: Stock and Forex Data and Realtime Quotes Test sachini test kosala bada
-  tttt
+description: Stock and Forex Data and Realtime Quotes
 type: HTTP
 context: /forex-quotes/0.0.1
 contextTemplate: /forex-quotes/{version}
