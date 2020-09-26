@@ -2,7 +2,7 @@ id:
   providerName: admin
   apiName: 1ForgeFinanceAPIs
   version: 0.0.1
-description: Stock and Forex Data and Realtime Quotes
+description: Stock and Forex Data and Realtime Quotes running with jenkins
 type: HTTP
 context: /forex-quotes/0.0.1
 contextTemplate: /forex-quotes/{version}
